@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Live Velora</title>
+</head>
+<body>
+  <h1>Live Velora</h1>
+
+  <p>
+    Live Velora is a Software as a Service (SaaS) platform that offers
+    digital credits (tokens) used within the platform for premium,
+    time-based digital services such as private chats and exclusive interactions.
+  </p>
+
+  <p>
+    The tokens have no monetary value outside the platform and are not transferable.
+    No funds are stored or transferred on behalf of users.
+  </p>
+
+  <p>
+    Contact: support@livevelora.com
+  </p>
+</body>
+</html>
